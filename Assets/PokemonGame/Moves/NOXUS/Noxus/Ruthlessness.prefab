@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &977397434666088364
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5130979918480255232}
+  - component: {fileID: 4058785576073022695}
+  m_Layer: 0
+  m_Name: Ruthlessness
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5130979918480255232
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 977397434666088364}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 40.507965, y: -20.977179, z: -18.5625}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4058785576073022695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 977397434666088364}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 431662647f57d2f4988abe84ad0cb810, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Name: Ruthlessness
+  category: 2
+  moveType: 4
+  PP: 1
+  power: 0
+  accuracy: 100
+  MyIndex: 15
+  StatusIMake: 0
+  RiseATK: 0
+  RiseSpeed: 0
+  RiseDef: 0
+  RiseSpAtk: 0
+  RiseSpDef: 0
+  DecreaseATK: 1
+  DecreaseSpeed: 1
+  DecreaseDeff: 1
+  DecreaseSpAtk: 1
+  DecreaseSpDeff: 1
+  MeDecreaseATK: 0
+  MeDecreaseSpeed: 0
+  MeDecreaseDeff: 0
+  MeDecreaseSpAtk: 0
+  MeDecreaseSpDeff: 0
+  Description: "Poprzez swoj\u0105 bezwgl\u0119dno\u015B\u0107 wywo\u0142ujesz strach
+    u przeciwnika przez co obni\u017Casz wszystkie jego statystyki!"

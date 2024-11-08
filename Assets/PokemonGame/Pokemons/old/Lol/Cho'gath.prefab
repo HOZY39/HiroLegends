@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9121043120208841979
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9121043120208841957}
+  - component: {fileID: 9121043120208841978}
+  - component: {fileID: 9121043120208841956}
+  m_Layer: 0
+  m_Name: Cho'gath
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9121043120208841957
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9121043120208841979}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 72.1, y: -57.3, z: 0}
+  m_LocalScale: {x: 2, y: 2, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &9121043120208841978
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9121043120208841979}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: eec4fbf03107f474eb96690a52a6264b, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2.734375, y: 2.828125}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!114 &9121043120208841956
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9121043120208841979}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f228a99eb7127a64999fb78729d3953a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Name: Cho'gath
+  icon: {fileID: 21300000, guid: 80be579a8d172ba44a5dd49239b64102, type: 3}
+  sprite: {fileID: 21300000, guid: eec4fbf03107f474eb96690a52a6264b, type: 3}
+  type: 9
+  rarity: 0
+  status: 0
+  HP: 16
+  maxHP: 16
+  Move1PP: 0
+  Move2PP: 0
+  Move3PP: 0
+  Move4PP: 0
+  ExpForMe: 0
+  MyExp: 1
+  MaxExp: 1000000
+  AttackStat: 7
+  DefenceStat: 11
+  SpeedStat: 5
+  SpAttackStat: 9
+  SpDefenceStat: 11
+  HpLossInt: 0
+  canEvolve: 0
+  evolveTo:
+    nextEvolution: {fileID: 0}
+    levelUpLevel: 0
+  LevelUp:
+    AmountOfHpRise: 6
+    AmountOfAtackRise: 1
+    AmountOfDeffRise: 3
+    AmountOfSpAtackpRise: 1
+    AmountOfSpDeffRise: 3
+    AmountOfSpeedRise: 1
+  level: 1
+  MovesICanUse:
+  - {fileID: 6853323386995723663, guid: 010d6599aea0c6542a2d133c827906e3, type: 3}
+  - {fileID: 6853323386995723663, guid: 010d6599aea0c6542a2d133c827906e3, type: 3}
+  - {fileID: 6853323386995723663, guid: 010d6599aea0c6542a2d133c827906e3, type: 3}
+  - {fileID: 6853323386995723663, guid: 010d6599aea0c6542a2d133c827906e3, type: 3}
+  MovesICanLearn: []
+  MovesICanUse1Int: 0
+  MovesICanUse2Int: 0
+  MovesICanUse3Int: 0
+  MovesICanUse4Int: 0
+  AmountOfHpRiseInt: 0
+  AmountOfAtackRiseInt: 0
+  AmountOfDeffRiseInt: 0
+  AmountOfSpAtackpRiseInt: 0
+  AmountOfSpDeffRiseInt: 0
+  AmountOfSpeedRiseInt: 0
+  EvolveToInt: 0
+  AttackStatInt: 7
+  DefenceStatInt: 11
+  SpeedStatInt: 5
+  SpAttackStatInt: 9
+  SpDefenceStatInt: 11
+  DefenseMinInt: 0
+  DefenseMaxInt: 0
+  AtackMinInt: 0
+  AtackMaxInt: 0
+  RarityInt: 0
+  Iconint: 3
+  Spriteint: 3
+  TypeInt: 0
+  LevelToEvolveInt: 0
+  StatusInt: 0
+  MaxHpInt: 16
+  HpInt: 16
+  Description: 
+  QuizToCatch:
+  - {fileID: 7801195250291853495, guid: 542919bb877dd4d3c9a7d4943edd327d, type: 3}
+  - {fileID: 2949019051586783970, guid: 69dda6caa989f484bad1bf0ca5545ba5, type: 3}

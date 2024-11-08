@@ -1,0 +1,1056 @@
+fileFormatVersion: 2
+guid: ec39a1bec3beb47118c4309aa7e8f80d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6bbdca541c64954b3ac7a7865aeb74
+      internalID: 1418613347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381839b8017a54e0d91283ae0befa16f
+      internalID: -1338122642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ff6da9daa124be9b3eedfe27e975b9
+      internalID: -956524060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06912d58304c44c9bb003cdb48730656
+      internalID: -364929272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7114b5e6a70ff4f388318cd10e326444
+      internalID: -589368847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 96
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 48}
+        - {x: 33, y: 45}
+        - {x: 31, y: 45}
+        - {x: 31, y: 42}
+        - {x: 29, y: 42}
+        - {x: 29, y: 43}
+        - {x: 27, y: 43}
+        - {x: 27, y: 44}
+        - {x: 24.900002, y: 44.252014}
+        - {x: 25, y: 45}
+        - {x: 23, y: 45}
+        - {x: 23, y: 46}
+        - {x: 21, y: 46}
+        - {x: 21, y: 47}
+        - {x: 19, y: 47}
+        - {x: 19, y: 48}
+        - {x: 17, y: 48}
+        - {x: 17, y: 49}
+        - {x: 15, y: 49}
+        - {x: 15, y: 50}
+        - {x: 13, y: 50}
+        - {x: 13, y: 51}
+        - {x: 11, y: 51}
+        - {x: 11, y: 52}
+        - {x: 9, y: 52}
+        - {x: 9, y: 53}
+        - {x: 1, y: 53}
+        - {x: 1, y: 52}
+        - {x: -1, y: 52}
+        - {x: -1, y: 51}
+        - {x: -3, y: 51}
+        - {x: -3, y: 50}
+        - {x: -5, y: 50}
+        - {x: -5, y: 49}
+        - {x: -7, y: 49}
+        - {x: -7, y: 48}
+        - {x: -9, y: 48}
+        - {x: -9, y: 47}
+        - {x: -11, y: 47}
+        - {x: -11, y: 46}
+        - {x: -13, y: 46}
+        - {x: -13, y: 45}
+        - {x: -15, y: 45}
+        - {x: -15, y: 44}
+        - {x: -17, y: 44}
+        - {x: -17, y: 43}
+        - {x: -19, y: 43}
+        - {x: -19, y: 42}
+        - {x: -21, y: 42}
+        - {x: -21, y: 41}
+        - {x: -23, y: 41}
+        - {x: -23, y: 40}
+        - {x: -25, y: 40}
+        - {x: -25, y: 39}
+        - {x: -27, y: 39}
+        - {x: -27, y: 38}
+        - {x: -29, y: 38}
+        - {x: -29, y: 37}
+        - {x: -31, y: 37}
+        - {x: -31, y: 36}
+        - {x: -33, y: 36}
+        - {x: -33, y: 35}
+        - {x: -35, y: 35}
+        - {x: -35, y: 34}
+        - {x: -37, y: 34}
+        - {x: -37, y: 33}
+        - {x: -39, y: 33}
+        - {x: -39, y: 32}
+        - {x: -41, y: 32}
+        - {x: -41, y: 31}
+        - {x: -43, y: 31}
+        - {x: -43, y: 30}
+        - {x: -45, y: 30}
+        - {x: -45, y: 29}
+        - {x: -47, y: 29}
+        - {x: -47, y: 28}
+        - {x: -48, y: 28}
+        - {x: -48, y: -14}
+        - {x: -47, y: -14}
+        - {x: -47, y: -15}
+        - {x: -46, y: -15}
+        - {x: -46, y: -38}
+        - {x: -40, y: -38}
+        - {x: -40, y: -39}
+        - {x: -13, y: -39}
+        - {x: -13, y: -48}
+        - {x: -7, y: -48}
+        - {x: -7, y: -49}
+        - {x: -4, y: -49}
+        - {x: -4, y: -51}
+        - {x: 0, y: -51}
+        - {x: 0, y: -49}
+        - {x: 16, y: -49}
+        - {x: 16, y: -51}
+        - {x: 20, y: -51}
+        - {x: 20, y: -49}
+        - {x: 28, y: -49}
+        - {x: 28, y: -48}
+        - {x: 34, y: -48}
+        - {x: 34, y: -33}
+        - {x: 48, y: -33}
+        - {x: 48, y: -10}
+        - {x: 46, y: -10}
+        - {x: 46, y: 28}
+        - {x: 48, y: 28}
+        - {x: 48, y: 45}
+        - {x: 46, y: 45}
+        - {x: 46, y: 48}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: ff9ddc722ec1943f5a5e2a2b5965e599
+      internalID: 700361101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 136
+        width: 96
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f73d8e4617d4c55a71a0965dcc0a19
+      internalID: 1663626164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb990aafa32649dbaaf37b1d7abab3a
+      internalID: -1446984024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a440f64285644e48b652498504ef9d6
+      internalID: 1011033312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf5808e1a215425383dc4c5113c6492
+      internalID: -808820484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87e1395fe83145babc61f3b09c70514
+      internalID: 1639459124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd41201aa23e47c0ab2ec141a7e046b
+      internalID: 6760742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6297ee9743cd47119aa76369c27b85f
+      internalID: -2034946311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18113bf1ae99475dbe06569c4a8f3a0
+      internalID: 814571469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580503a26fd344a3a9326e26b795b83f
+      internalID: 1473139686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c86ca0e5ebc14017932186ab11d3cf2
+      internalID: 1431939929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edba4535aecb4429aa29b743fab0ed39
+      internalID: 1423248049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bef62891c7a4e939e43ea9b63a92dd
+      internalID: -591952775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db32c5c081664bfcbab66a7b8063010
+      internalID: 435501791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a52f4c5988314126a208ca12593f029
+      internalID: 1746184494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26049ce99cdd1471f8d03ce0af23c9e1
+      internalID: -1252186814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b010987107666405da335911252462a5
+      internalID: 350680724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce02f35b215d4018a98262a25881d69
+      internalID: -692459069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21755e8e45d6948f4a469a7459520a0f
+      internalID: 1726506383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4230334c5947d48ebbf84c9bd6294c2d
+      internalID: 1254865299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af68b4f3b9f1e48e589a7d411b0d7cd4
+      internalID: 254661729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8368fd482a4441d9808e3d7a8f5eaf
+      internalID: -573473507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cb2b021e51d4ce09077d3c7a35964a
+      internalID: 1484146191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c827d8634ac401a80a77627ba65c0e
+      internalID: -1827927255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c51bcf4c04d439b8025b2bb3c5da4d
+      internalID: 355947342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af202f83ba74448c8e152e09d91825b
+      internalID: 300291491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668358189cf824579b62606397e9e8e3
+      internalID: -963998493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3af1387f59747baa5ccc2eef258cc0
+      internalID: -1873338093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7a45d6295cd424d80451449e230035
+      internalID: 1423947890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e66ce5e0def741d1b80964050a24499
+      internalID: -1463268285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced806b5b98664dc98843789c7fc13de
+      internalID: 1745451510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_pokemon_resurgent_by_zeo254_d875yg3_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f164598bf378445b48c9efee078ca50f
+      internalID: 2086700584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_25: 254661729
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_11: 6760742
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_32: -1873338093
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_10: 1639459124
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_17: -591952775
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_4: -589368847
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_9: -808820484
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_6: 1663626164
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_27: 1484146191
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_1: -1338122642
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_5: 700361101
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_28: -1827927255
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_0: 1418613347
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_29: 355947342
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_20: -1252186814
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_36: 2086700584
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_33: 1423947890
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_3: -364929272
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_7: -1446984024
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_23: 1726506383
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_34: -1463268285
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_16: 1423248049
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_30: 300291491
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_18: 435501791
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_15: 1431939929
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_22: -692459069
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_13: 814571469
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_24: 1254865299
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_8: 1011033312
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_14: 1473139686
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_19: 1746184494
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_21: 350680724
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_35: 1745451510
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_12: -2034946311
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_2: -956524060
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_26: -573473507
+      tileset_pokemon_resurgent_by_zeo254_d875yg3_31: -963998493
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

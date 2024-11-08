@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd791bb11e10cc1458e0a9edc1870369, type: 3}
+  m_Name: DogChange
+  m_EditorClassIdentifier: 
+  icon: {fileID: 8558727181944040719, guid: 5f4c63cc70e465746b805d1661708967, type: 3}
+  stackSize: 1
+  cos: 0
+  Dog: {fileID: 273192957370072047, guid: 6d9be2eebafe87642a68f315a388544f, type: 3}
+  Cat: {fileID: 829503168376375624, guid: 49c40ba77397538408839a62e3285378, type: 3}
+  Postac: {fileID: 8500658346846683114, guid: 041640b73acc26e40b07eb3384e84c79, type: 3}
